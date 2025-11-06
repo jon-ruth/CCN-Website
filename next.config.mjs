@@ -7,7 +7,7 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  basePath: '/climate-coordination-network-website',
-  assetPrefix: '/climate-coordination-network-website/',
+  basePath: '/CCN-Website',
+  assetPrefix: '/CCN-Website/',
 }
 export default nextConfig
